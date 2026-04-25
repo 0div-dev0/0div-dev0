@@ -1,4 +1,35 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+
+> Building intelligent, scalable web applications | Student Developer | India
+
+## 🚀 What I'm Working On
+
+- **[Project Name]** - AI-powered [specific use case] using Next.js & OpenAI API
+- **[Project Name]** - Real-time [specific feature] with WebSockets & Redis
+- Learning: **Multi-agent systems**, **network security**, and **Rust**
+
+## 💻 Tech Stack
+
+**Currently Shipping With:**
+- Frontend: React, Next.js, TypeScript, Tailwind
+- Backend: Node.js, Express, API design
+- AI/ML: OpenAI API, LangChain, vector databases
+- Tools: Git, Docker, Vercel
+
+**Actively Learning:**
+- Systems Programming (Rust, Go)
+- ML Engineering (PyTorch, transformers)
+- Cybersecurity (network protocols, cryptography)
+- Distributed Systems (Kubernetes, message queues)
+
+## 🎯 Approach
+
+I combine AI tooling with solid architectural knowledge—using AI for velocity while understanding the systems I build. Focused on **performance**, **security**, and **scalability**.
+
+## 📫 Let's Connect
+
+[Your Email] | [LinkedIn] | [Personal Site if you have one]
+
 
 <!--
 **0div-dev0/0div-dev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
