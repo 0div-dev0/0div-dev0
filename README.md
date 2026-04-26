@@ -11,7 +11,8 @@
 ## 💻 Tech Stack
 
 **Currently Shipping With:**
-- Frontend: React, Next.js, TypeScript, Tailwind
+- Languages: 
+- Frontend: ![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,antigravity)
 - Backend: Node.js, Express, API design
 - AI/ML: OpenAI API, LangChain, vector databases
 - Tools: Git, Docker, Vercel
