@@ -1,5 +1,6 @@
-# I'm div-dev, a teenage web developer with a keen interest in AI, shipping SaaS apps, and building creative and implementable projects.
+# Hey, I'm div-dev
 
+>A teenage web developer with a keen interest in AI, shipping SaaS apps, and building creative and implementable projects.
 
 ##  What I'm Working On
 
