@@ -5,7 +5,7 @@
 
 ##  Some cool Projects
 
-- **Langle** - A daily worldle-inspired game powered by translator API's and a connected backend. Great UX.
+- **Langle** - A daily worldle-inspired game powered by translator API's and a connected backend. Great UX. 
 - **Storify** - AI powered Journalling app tracking day-to-day endeavors to make a story of your life; giving feedback.
 
 ##  Tech Stack
