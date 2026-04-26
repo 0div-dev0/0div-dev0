@@ -1,6 +1,6 @@
 # Hey, I'm div-dev
 
->A teenage web developer with a keen interest in AI, shipping SaaS apps, and building creative and implementable projects.
+- A teenage web developer with a keen interest in AI, shipping SaaS apps, and building creative and implementable projects.
 
 ##  What I'm Working On
 
@@ -33,7 +33,7 @@ I combine AI tooling with solid architectural knowledge—using AI for velocity 
 
 [Your Email] | [LinkedIn] | [Personal Site if you have one]
 
-> Fun fact: the alias 'div-dev' is a mix of my name 'divit' and an essential in one of the first languages I learnt, the <div> tag in HTML!
+> Fun fact: the alias 'div-dev' is a mix of my name 'divit' and an essential in one of the first languages I learnt, the &lt;div&gt; tag in HTML!
 
 <!--
 **0div-dev0/0div-dev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
