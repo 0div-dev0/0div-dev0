@@ -10,11 +10,11 @@
 ##  Tech Stack
 
 **Currently Shipping With:**
-- Languages:       ![My Skills](https://skillicons.dev/icons?i=js,py,html,css)
-- Frontend:        ![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,svg,redux)
-- Backend:         ![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,express,firebase,mongodb)
-- AI/ML:           ![My Skills](https://skillicons.dev/icons?i=py,pytorch)
-- Tools:           ![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,docker,vercel)
+- Languages: <br>      ![My Skills](https://skillicons.dev/icons?i=js,py,html,css)
+- Frontend:   <br>     ![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,svg,redux)
+- Backend:   <br>      ![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,express,firebase,mongodb)
+- AI/ML:      <br>     ![My Skills](https://skillicons.dev/icons?i=py,pytorch)
+- Tools:        <br>   ![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,docker,vercel)
 
 </div>
 
