@@ -1,12 +1,12 @@
 # Hey, I'm div-dev
 
 - A teenage web developer with a keen interest in AI, shipping SaaS apps, and building creative and implementable projects.
+- I specialize in building web apps with speed and efficiency by utilizing tools like Claude Code and Antigravity, while combining it with my web architecture and backend knowledge.
 
-##  What I'm Working On
+##  Some cool Projects
 
-- **[Project Name]** - AI-powered [specific use case] using Next.js & OpenAI API
-- **[Project Name]** - Real-time [specific feature] with WebSockets & Redis
-- Learning: **Multi-agent systems**, **network security**, and **Rust**
+- **Langle** - A daily worldle-inspired game powered by translator API's and a connected backend. Great UX.
+- **Storify** - AI powered Journalling app tracking day-to-day endeavors to make a story of your life; giving feedback.
 
 ##  Tech Stack
 
@@ -19,19 +19,21 @@
 
 </div>
 
+
+
 **Actively Learning:**
-- Systems Programming (Rust, Go)
+- Advancing AI technology in design and programming fields
 - ML Engineering (PyTorch, transformers)
 - Cybersecurity (network protocols, cryptography)
 - Distributed Systems (Kubernetes, message queues)
 
-## 🎯 Approach
+## Approach
 
 I combine AI tooling with solid architectural knowledge—using AI for velocity while understanding the systems I build. Focused on **performance**, **security**, and **scalability**.
 
-## 📫 Let's Connect
+## Contact me
 
-[Your Email] | [LinkedIn] | [Personal Site if you have one]
+[jaindvit001@gmail.com] | [Instagram] | [Linkedin] | [Portfolio]
 
 > Fun fact: the alias 'div-dev' is a mix of my name 'divit' and an essential in one of the first languages I learnt, the &lt;div&gt; tag in HTML!
 
