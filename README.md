@@ -10,32 +10,11 @@
 ##  Tech Stack
 
 **Currently Shipping With:**
-<div style="display: flex; flex-direction: column; gap: 12px;">
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <strong style="width: 100px;">Languages</strong>
-    <img src="https://skillicons.dev/icons?i=js,py,html,css" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <strong style="width: 100px;">Frontend</strong>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,svg,redux" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <strong style="width: 100px;">Backend</strong>
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,firebase,mongodb" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <strong style="width: 100px;">AI/ML</strong>
-    <img src="https://skillicons.dev/icons?i=py,pytorch" />
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <strong style="width: 100px;">Tools</strong>
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,docker,vercel" />
-  </div>
+- Languages:       ![My Skills](https://skillicons.dev/icons?i=js,py,html,css)
+- Frontend:        ![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,svg,redux)
+- Backend:         ![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,express,firebase,mongodb)
+- AI/ML:           ![My Skills](https://skillicons.dev/icons?i=py,pytorch)
+- Tools:           ![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,docker,vercel)
 
 </div>
 
