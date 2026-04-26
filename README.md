@@ -7,7 +7,7 @@
 
 - **Langle** - A daily worldle-inspired game powered by translator API's and a connected backend. Great UX. 
 - **Storify** - AI powered Journalling app tracking day-to-day endeavors to make a story of your life; giving feedback.
-  <!-- Add SVG logos of the sites and previews as well.>
+  <!-- Add SVG logos of the sites and previews as well. -->
 ##  Tech Stack
 
 **Currently Shipping With:**
